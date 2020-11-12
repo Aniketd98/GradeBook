@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anike\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj": {}
+    "C:\\Users\\anike\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anike\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
+    "C:\\Users\\anike\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anike\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\anike\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\anike\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\anike\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anike\\Desktop\\gradebook\\src\\Gradebook\\obj\\",
+        "outputPath": "C:\\Users\\anike\\Desktop\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anike\\AppData\\Roaming\\NuGet\\NuGet.Config"
